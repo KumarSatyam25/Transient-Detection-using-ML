@@ -1099,7 +1099,7 @@ If you use this code in your research, please cite:
   title = {Asteroid Detection Using Machine Learning},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/Negative-Zero-Official/Asteroid-Detection-using-Machine-Learning}
+  url = {https://github.com/KumarSatyam25/Transient-Detection-using-ML}
 }
 ```
 
