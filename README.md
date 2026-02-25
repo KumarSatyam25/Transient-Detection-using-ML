@@ -1095,7 +1095,7 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @software{asteroid_detection_ml,
-  author = {Prahlad Gaitonde},
+  author = {Prahlad Gaitonde,Kumar Satyam},
   title = {Asteroid Detection Using Machine Learning},
   year = {2025},
   publisher = {GitHub},
